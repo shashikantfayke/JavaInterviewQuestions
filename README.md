@@ -1,13 +1,18 @@
 # JavaInterviewQuestions
 ===================================================================
-Which are the frequently asked interview questions for Java Engineers ?
 # CoreJAVA:
 Difference b/w abstract class and interface?
+
 Explain all oops concepts?
+
 What is marker interface and how many types?
+
 What is Agregation,association and composition?
+
 What is String class in java?
+
 Diff b/w StringBuffer and StringBuilder?
+
 What is serialization in java ?
 What is immutable object?
 Can you please explain Serializable?
@@ -264,18 +269,18 @@ Q56. Why ArrayList is faster than Vector?
 53 . What is the effect when a transient mapped object is passed onto a Sessions save?
 54 . Explain about addClass function?
 # Java 8 :
-1.What are the new feature in java 8 ?
-2. What is functional interface?
-3. Write a Comparator using java 8 ?
-4. What is Optional in java 8 ?
-5. Explain Stream Api. ?
-6.What is Lambda Expression?
-7. What is functional programming.?
-8 What is method reference ?
-9. What are default methods?
-10. Explain reduce function in java 8 ?
-11.Explain what changes are done in Date time api.?
-12 . Explain Predicate in java 8 ?
+1 .What are the new feature in java 8 ?
+2 . What is functional interface?
+3 . Write a Comparator using java 8 ?
+4 . What is Optional in java 8 ?
+5 . Explain Stream Api. ?
+6 .What is Lambda Expression?
+7 . What is functional programming.?
+8 .What is method reference ?
+9 . What are default methods?
+10 . Explain reduce function in java 8 ?
+11  .Explain what changes are done in Date time api.?
+12  . Explain Predicate in java 8 ?
 # Agile/Waterfall /Practices :
 1. What are the responsibilities of a Scrum master ?
 2. What is Product backlog ?
