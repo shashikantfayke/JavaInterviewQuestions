@@ -1,5 +1,5 @@
 # JavaInterviewQuestions
-=================================================================================
+===================================================================
 Which are the frequently asked interview questions for Java Engineers ?
 # CoreJAVA:
 Difference b/w abstract class and interface?
